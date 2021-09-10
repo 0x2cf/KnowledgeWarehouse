@@ -1,2 +1,6 @@
-sphinx==4.1.2
-myst-parser==0.15.2
+sphinx
+sphinx-autobuild
+sphinx_rtd_theme
+recommonmark
+sphinx-markdown-tables
+nbsphinx
