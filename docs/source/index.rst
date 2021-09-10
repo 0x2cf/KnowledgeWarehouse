@@ -20,3 +20,7 @@ Contents
 
    usage
    api
+   test
+
+
+test msg
